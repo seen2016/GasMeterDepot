@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="permissions">
+        <item>@string/permission_call_phone_hint</item>
+        <item>@string/permission_camera_hint</item>
+    </array>
+
+
+</resources>

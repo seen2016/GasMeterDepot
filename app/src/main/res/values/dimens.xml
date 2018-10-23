@@ -1,0 +1,164 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 加载界面，字体大小 -->
+    <dimen name="loading_text_size">13dp</dimen>
+
+    <!-- 时间显示区域，接受时间、截至时间左右Padding -->
+    <dimen name="receive_time_padding_horizontal">10dp</dimen>
+    <dimen name="progressbar_min">20dp</dimen>
+    <dimen name="progressbar_max">20dp</dimen>
+
+    <!-- 控件水平间隔 -->
+    <dimen name="control_horizontal_seperater">15dp</dimen>
+    <!-- 控件垂直间隔 -->
+    <dimen name="control_vertical_seperater">10dp</dimen>
+
+    <!-- 字体大小定义 -->
+    <!-- 30px -->
+    <dimen name="text_size_xxxxlarge">20dp</dimen>
+    <!-- 28px -->
+    <dimen name="text_size_xxxlarge">19dp</dimen>
+    <!-- 24px -->
+    <dimen name="text_size_xxlarge">16dp</dimen>
+    <!-- 22px -->
+    <dimen name="text_size_xlarge">15dp</dimen>
+    <!-- 20px -->
+    <dimen name="text_size_large">13dp</dimen>
+    <!-- 18px -->
+    <dimen name="text_size_meduim">12dp</dimen>
+    <!-- 16px -->
+    <dimen name="text_size_small">11dp</dimen>
+    <!-- 14px -->
+    <dimen name="text_size_xsmall">9dp</dimen>
+    <!-- 12px -->
+    <dimen name="text_size_xxsmall">8dp</dimen>
+
+    <dimen name="paddingBottom1">10dp</dimen>
+
+    <dimen name="marginLeft_2">2dp</dimen>
+    <dimen name="marginTop_3">3dp</dimen>
+    <dimen name="marginBottom_3">3dp</dimen>
+    <dimen name="marginTop_5">5dp</dimen>
+    <dimen name="marginLeft_5">5dp</dimen>
+    <dimen name="marginRight_5">5dp</dimen>
+    <dimen name="marginBottom_5">5dp</dimen>
+    <dimen name="marginLeft_10">10dp</dimen>
+    <dimen name="marginRight_10">10dp</dimen>
+    <dimen name="marginTop_10">10dp</dimen>
+    <dimen name="marginBottom_10">10dp</dimen>
+    <dimen name="marginLeft_15">15dp</dimen>
+    <dimen name="marginRight_15">15dp</dimen>
+    <dimen name="marginTop_20">20dp</dimen>
+    <dimen name="marginLeft_20">20dp</dimen>
+    <dimen name="marginRight_20">20dp</dimen>
+    <dimen name="marginBottom_20">20dp</dimen>
+    <dimen name="marginLeft_25">25dp</dimen>
+    <dimen name="marginLeft_30">30dp</dimen>
+    <dimen name="marginRight_30">30dp</dimen>
+    <dimen name="marginTop_30">30dp</dimen>
+    <dimen name="marginBottom_30">30dp</dimen>
+    <dimen name="marginLeft_40">40dp</dimen>
+    <dimen name="marginRight_40">40dp</dimen>
+    <dimen name="marginTop_50">50dp</dimen>
+    <dimen name="marginLeft_50">50dp</dimen>
+    <dimen name="marginRight_50">50dp</dimen>
+    <dimen name="marginBottom_50">50dp</dimen>
+    <dimen name="marginTop_90">90dp</dimen>
+    <dimen name="marginLeft_60">60dp</dimen>
+    <dimen name="marginLeft_70">70dp</dimen>
+    <dimen name="marginLeft_80">80dp</dimen>
+    <dimen name="marginBottom_70">70dp</dimen>
+    <dimen name="marginBottom_80">80dp</dimen>
+    <dimen name="marginTop_100">100dp</dimen>
+
+
+    <dimen name="height_1_5">1.5dp</dimen>
+    <dimen name="height_1">1dp</dimen>
+    <dimen name="height_5">5dp</dimen>
+    <dimen name="height_30">30dp</dimen>
+    <dimen name="height_45">45dp</dimen>
+    <dimen name="height_50">50dp</dimen>
+    <dimen name="height_60">60dp</dimen>
+    <dimen name="height_80">80dp</dimen>
+
+    <!-- 按钮左右Padding距离 -->
+    <dimen name="button_padding">10dp</dimen>
+
+    <!-- 大按钮字体大小 -->
+    <dimen name="button_text_size_large">16dp</dimen>
+
+    <dimen name="text_size1">14dp</dimen>
+    <dimen name="textview_textsize">13.8dp</dimen>
+    <dimen name="text_size_10">10sp</dimen>
+
+    <dimen name="main_splitLine">0.6dp</dimen>
+    <dimen name="main_paddingBottom">3dp</dimen>
+    <dimen name="main_paddingTop">5dp</dimen>
+
+    <dimen name="width_10">10dp</dimen>
+    <dimen name="height_10">10dp</dimen>
+    <dimen name="width_30">30dp</dimen>
+    <dimen name="width_40">40dp</dimen>
+    <dimen name="width_48">48dp</dimen>
+    <dimen name="width_65">65dp</dimen>
+    <dimen name="width_80">80dp</dimen>
+    <dimen name="width_90">90dp</dimen>
+    <dimen name="width_100">100dp</dimen>
+    <dimen name="width_110">110dp</dimen>
+    <dimen name="width_120">120dp</dimen>
+    <dimen name="width_160">160dp</dimen>
+    <dimen name="width_170">170dp</dimen>
+    <dimen name="width_180">180dp</dimen>
+    <dimen name="width_185">185dp</dimen>
+    <dimen name="width_200">200dp</dimen>
+
+    <dimen name="height_36">36dp</dimen>
+    <dimen name="height_40">40dp</dimen>
+    <dimen name="height_46">46dp</dimen>
+    <dimen name="height_48">48dp</dimen>
+    <dimen name="height_56">56dp</dimen>
+    <dimen name="height_66">66dp</dimen>
+    <dimen name="height_76">76dp</dimen>
+    <dimen name="height_100">100dp</dimen>
+    <dimen name="height_180">180dp</dimen>
+    <dimen name="height_190">190dp</dimen>
+    <dimen name="height_200">200dp</dimen>
+    <dimen name="height_210">210dp</dimen>
+
+    <dimen name="paddingLeft2">2dp</dimen>
+    <dimen name="paddingLeft5">5dp</dimen>
+    <dimen name="paddingRight2">2dp</dimen>
+    <dimen name="paddingRight5">5dp</dimen>
+
+    <dimen name="radius_0">0dp</dimen>
+    <dimen name="radius_5">5dp</dimen>
+
+    <dimen name="list_padding_horizontal">5dp</dimen>
+
+    <dimen name="activity_main_list_icon_marginLeft">20.5dp</dimen>
+    <dimen name="activity_main_list_height">66dp</dimen>
+    <dimen name="activity_main_list_title_marginLeft">10.5dp</dimen>
+    <dimen name="activity_main_grid_Spacing">10.5dp</dimen>
+    <dimen name="activity_main_grid_padding">22.5dp</dimen>
+    <dimen name="activity_main_grid_item">86dp</dimen>
+    <dimen name="activity_main_grid_item_height">98dp</dimen>
+    <dimen name="item_gridview_main_width">45dp</dimen>
+    <dimen name="item_gridview_main_height">37.5dp</dimen>
+    <dimen name="activity_main_grid_icon_marginBottom">5px</dimen>
+    <dimen name="activity_main_grid_icon_marginTop">7dp</dimen>
+
+    <dimen name="radius_10">10dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+
+    <dimen name="width_20">20dp</dimen>
+
+    <dimen name="textsize_10">10sp</dimen>
+    <dimen name="textsize_14">14sp</dimen>
+    <dimen name="textsize_16">16sp</dimen>
+    <dimen name="textsize_18">18sp</dimen>
+    <dimen name="textsize_20">20sp</dimen>
+
+</resources>
